@@ -1,6 +1,6 @@
 ### Heyyy youuu 😁
 
-- 📚 I’m currently learning - C# ASP.NET / SQL / Http / CSS
+- 📚 I’m currently learning - C# ASP.NET / SQL 
 - 💬 Ask me about : Conhecimentos gerais, todo conhecimento me atrai.
 - ⚡ Fun fact: Talvez não pareça, mas CDZ e Pokemon estão no top 5 de coisas que gosto 🤣
 <div align="center">
