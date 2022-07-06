@@ -5,8 +5,8 @@
 - ⚡ Fun fact: Talvez não pareça, mas CDZ e Pokemon estão no top 5 de coisas que gosto 🤣
 <div align="center">
   <a href="https://github.com/Gvazarini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gvazarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvazarini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gvazarini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvazarini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <img align="center" alt="Gvazarini" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 
