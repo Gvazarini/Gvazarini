@@ -11,6 +11,6 @@
 <img align="center" alt="Gvazarini" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-vazarini-camara-72a312234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-vazarini//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/Gvazarini/Gvazarini/blob/output/github-contribution-grid-snake.svg)
