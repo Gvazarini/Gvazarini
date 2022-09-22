@@ -2,7 +2,7 @@
 
 - 📚 I’m currently learning - JAVA / C# ASP.NET / SQL. 
 - 🎓 I’m in collage, studying System Development.
-- 💬 Ask me about : general learning, culture, travel, politics, history. I prety like to discus tem and always learn a new features.
+- 💬 Ask me about : general learning, culture, travel, politics, history. I pretty like to discus tem and always learn a new features.
 - ⚡ Fun fact: Talvez não pareça, mas CDZ e Pokemon estão no top 5 de coisas que gosto 🤣
 <div align="center">
   <a href="https://github.com/Gvazarini">
