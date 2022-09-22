@@ -1,4 +1,4 @@
-### Heyyy youuu 😁
+### Heyyy youuu!! 😁
 
 - 📚 I’m currently learning - JAVA / C# ASP.NET / SQL. 
 - 🎓 I’m in collage, studying System Development.
